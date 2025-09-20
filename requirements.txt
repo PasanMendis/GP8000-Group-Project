@@ -1,0 +1,21 @@
+# Core ML / DL
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+
+# Transformers & HuggingFace
+transformers==4.43.4
+accelerate==0.33.0
+
+# Data handling
+pandas==2.2.2
+scikit-learn==1.5.2
+numpy==1.26.4
+
+# Image processing
+pillow==10.4.0
+
+# Metrics / utils
+tqdm==4.66.5
+
+scikit-learn==1.5.2
